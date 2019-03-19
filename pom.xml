@@ -13,7 +13,12 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>job-resourceserver</name>
     <description>Job Resourceserver Web Flux Sample</description>
-
+    <licenses>
+        <license>
+            <name>Apache-2.0</name>
+            <url>https://github.com/sius/job-resourceserver/blob/master/LICENSE</url>
+        </license>
+    </licenses>
     <properties>
         <java.version>11</java.version>
         <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
